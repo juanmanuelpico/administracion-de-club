@@ -1,0 +1,3 @@
+natacion;lunes;jueves;
+futbol;martes;miercoles;
+voley;martes;sabado;viernes;

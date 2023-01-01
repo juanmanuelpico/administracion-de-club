@@ -1,0 +1,22 @@
+
+
+-------------------------- ACTIVIDAD VOLEY -----------------------------
+
+Profesor: Nombre: Carlos    Apellido: Perez    DNI: 30540232    legajo: 4001
+
+
+Horario: Desde las 20:00hs Hasta las 21:00hs     Cupo: 8
+
+Dias [ - martes - sabado - viernes ]
+
+
+--- Socios de la actividad ---
+
+
+Nombre: Juan    Apellido: Pico    DNI: 94755616    nroCarnet: 3423
+Nombre: Kevin    Apellido: Oviedo    DNI: 44563214    nroCarnet: 3425
+Nombre: Lara    Apellido: Dofi    DNI: 44563234    nroCarnet: 3421
+Nombre: Juan    Apellido: Lopez    DNI: 33567498    nroCarnet: 123
+
+----------------------------------
+

@@ -1,0 +1,19 @@
+
+ ----- SOCIOS DEL CLUB -----
+
+Nombre: Juan    Apellido: Pico    DNI: 94755616    nroCarnet: 3423
+Nombre: Sofia    Apellido: Vottari    DNI: 44563247    nroCarnet: 3422
+Nombre: Lara    Apellido: Dofi    DNI: 44563234    nroCarnet: 3421
+Nombre: Kevin    Apellido: Oviedo    DNI: 44563214    nroCarnet: 3425
+Nombre: Luana    Apellido: Fremon    DNI: 95678323    nroCarnet: 3420
+Nombre: Fernanda    Apellido: Robledo    DNI: 43567221    nroCarnet: 5000
+Nombre: Juan    Apellido: Lopez    DNI: 33567498    nroCarnet: 123
+Nombre: Kevin    Apellido: Roldan    DNI: 46756443    nroCarnet: 324
+Nombre: Angel    Apellido: Zamin    DNI: 44563124    nroCarnet: 456
+Nombre: Jose    Apellido: Peña    DNI: 23456789    nroCarnet: 1
+Nombre: Amanda    Apellido: Dervil    DNI: 3458901    nroCarnet: 2
+Nombre: Laura    Apellido: Chazf    DNI: 23456732    nroCarnet: 34
+Nombre: Angela    Apellido: Numan    DNI: 44521999    nroCarnet: 35
+
+----------------------------------
+

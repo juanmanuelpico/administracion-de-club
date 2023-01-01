@@ -1,0 +1,21 @@
+
+
+-------------------------- ACTIVIDAD FUTBOL -----------------------------
+
+Profesor: Nombre: Braian    Apellido: Adams    DNI: 31560555    legajo: 4002
+
+
+Horario: Desde las 13:00hs Hasta las 16:00hs     Cupo: 5
+
+Dias [ - martes - miercoles ]
+
+
+--- Socios de la actividad ---
+
+
+Nombre: Laura    Apellido: Chazf    DNI: 23456732    nroCarnet: 34
+Nombre: Jose    Apellido: Peña    DNI: 23456789    nroCarnet: 1
+Nombre: Sofia    Apellido: Vottari    DNI: 44563247    nroCarnet: 3422
+
+----------------------------------
+

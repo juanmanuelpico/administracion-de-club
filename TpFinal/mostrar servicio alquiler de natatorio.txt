@@ -1,0 +1,6 @@
+Id: 3    Nombre: alquiler de natatorio    precio hora: 709.0
+--Alquileres--
+id=1  fecha=2020-12-03, horaDesde=18:00, horaHasta=20:00,  precio: 1418.0
+id=2  fecha=2020-01-03, horaDesde=11:00, horaHasta=21:00,  precio: 7090.0
+id=3  fecha=2020-09-03, horaDesde=18:00, horaHasta=20:00,  precio: 1418.0
+id=4  fecha=2020-11-03, horaDesde=11:00, horaHasta=21:00,  precio: 7090.0

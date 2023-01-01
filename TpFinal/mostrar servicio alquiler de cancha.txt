@@ -1,0 +1,6 @@
+Id: 2    Nombre: alquiler de cancha    precio hora: 789.0
+--Alquileres--
+id=1  fecha=2020-12-03, horaDesde=18:00, horaHasta=20:00,  precio: 1578.0
+id=2  fecha=2020-01-03, horaDesde=11:00, horaHasta=21:00,  precio: 7890.0
+id=3  fecha=2020-09-03, horaDesde=18:00, horaHasta=20:00,  precio: 1578.0
+id=4  fecha=2020-11-03, horaDesde=11:00, horaHasta=21:00,  precio: 7890.0

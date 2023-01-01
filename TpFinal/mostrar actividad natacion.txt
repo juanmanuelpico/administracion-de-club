@@ -1,0 +1,22 @@
+
+
+-------------------------- ACTIVIDAD NATACION -----------------------------
+
+Profesor: Nombre: Juana    Apellido: Calvo    DNI: 30560555    legajo: 4003
+
+
+Horario: Desde las 15:00hs Hasta las 17:00hs     Cupo: 4
+
+Dias [ - lunes - jueves ]
+
+
+--- Socios de la actividad ---
+
+
+Nombre: Juan    Apellido: Lopez    DNI: 33567498    nroCarnet: 123
+Nombre: Jose    Apellido: Peña    DNI: 23456789    nroCarnet: 1
+Nombre: Kevin    Apellido: Roldan    DNI: 46756443    nroCarnet: 324
+Nombre: Juan    Apellido: Pico    DNI: 94755616    nroCarnet: 3423
+
+----------------------------------
+

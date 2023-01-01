@@ -1,0 +1,18 @@
+
+ ----- PROFESORES DEL CLUB -----
+
+Nombre: Roberto    Apellido: Gomez    DNI: 32456221    legajo: 4000
+
+
+Nombre: Carlos    Apellido: Perez    DNI: 30540232    legajo: 4001
+
+
+Nombre: Braian    Apellido: Adams    DNI: 31560555    legajo: 4002
+
+
+Nombre: Juana    Apellido: Calvo    DNI: 30560555    legajo: 4003
+
+
+
+----------------------------------
+

@@ -1,0 +1,4 @@
+Id: 1    Nombre: alquiler de quincho    precio hora: 4000.0
+--Alquileres--
+id=1  fecha=2020-01-03, horaDesde=11:00, horaHasta=21:00,  precio: 40000.0
+id=2  fecha=2020-11-03, horaDesde=11:00, horaHasta=21:00,  precio: 40000.0

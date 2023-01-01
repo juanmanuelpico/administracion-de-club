@@ -1,0 +1,22 @@
+
+
+-------------------------- ACTIVIDAD BASQUET -----------------------------
+
+Profesor: Nombre: Roberto    Apellido: Gomez    DNI: 32456221    legajo: 4000
+
+
+Horario: Desde las 15:00hs Hasta las 17:00hs     Cupo: 6
+
+Dias [ - martes - miercoles - viernes ]
+
+
+--- Socios de la actividad ---
+
+
+Nombre: Fernanda    Apellido: Robledo    DNI: 43567221    nroCarnet: 5000
+Nombre: Kevin    Apellido: Oviedo    DNI: 44563214    nroCarnet: 3425
+Nombre: Angela    Apellido: Numan    DNI: 44521999    nroCarnet: 35
+Nombre: Laura    Apellido: Chazf    DNI: 23456732    nroCarnet: 34
+
+----------------------------------
+
